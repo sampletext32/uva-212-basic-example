@@ -1,11 +1,11 @@
-﻿int x = 0;
-int y = 0;
+﻿int i = 0;
+int j = 0;
 
 void Shift()
 {
-    x += 10;
-    y += 10;
+    i += 10;
+    j += 10;
 }
 
-Console.WriteLine(x);
-Console.WriteLine(y);
+Console.WriteLine(i);
+Console.WriteLine(j);
