@@ -3,8 +3,8 @@ int y = 0;
 
 void Shift()
 {
-    x += 5;
     x += 10;
+    y += 10;
 }
 
 Console.WriteLine(x);
